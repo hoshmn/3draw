@@ -1,0 +1,17 @@
+{
+  "name": "3drawBower",
+  "description": "A generated project at Fullstack Academy",
+  "main": "server/start.js",
+  "authors": [
+    "“Joshua <“j.maas.howard@gmail.com”>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
